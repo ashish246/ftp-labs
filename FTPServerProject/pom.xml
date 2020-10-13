@@ -12,7 +12,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jdk.version>1.7</jdk.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<ftpserver.version>1.0.0</ftpserver.version>
 		<ftplet.version>1.0.6</ftplet.version>
 	</properties>
